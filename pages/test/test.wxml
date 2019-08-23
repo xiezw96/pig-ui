@@ -1,0 +1,7 @@
+<!--pages/test/test.wxml-->
+<view class="weui-footer">
+  <view class="weui-footer__links">
+    <navigator url="" class="weui-footer__link">上海物联网科技有限公司</navigator>
+  </view>
+  <view class="weui-footer__text">Copyright © 程序媛专用</view>
+</view>
